@@ -54,22 +54,22 @@
     }
     
     .button1:hover{
-        background: rgb(9, 22, 83);
+        background: rgb(39, 146, 36);
     }
     .button1:active{
-        background: rgb(249, 189, 26);
+        background: rgb(172, 64, 21);
     }
     
     .button2:hover{
-        background-color: rgb(9, 22, 83);
+        background-color: rgb(39, 146, 36);
     }
     .button2:active{
-        background-color: rgb(249, 189, 26);
+        background-color: rgb(172, 64, 21);
     }
     
     .button3:hover{
-        background-color: rgb(9, 22, 83);
+        background-color: rgb(39, 146, 36);
     }
     .button3:active{
-        background-color: rgb(249, 189, 26);
+        background-color: rgb(172, 64, 21);
     }
